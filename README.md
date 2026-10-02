@@ -1,4 +1,4 @@
-# Grade-Analyzer
+# Grade_Analyzer
 A python program for analyzing grades and calculating student's performance 
 ## Features
 - Enter multiple grades
